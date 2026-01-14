@@ -39,3 +39,10 @@ Two comprehensive Excel dashboards for Adventure Works sales analysis - featurin
 - **US & Australia** account for 62.7% of profit
 - **May, June, Dec** = 31.9% of annual profit
 - **Products >$150** generate 95.4% of profit
+  
+  ## Excel Features Used
+- PivotTables & PivotCharts
+- Conditional Formatting
+- Excel Maps & Sparklines
+- Slicers & Data Validation
+- Advanced Formulas
