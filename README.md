@@ -31,7 +31,7 @@ Two comprehensive Excel dashboards for Adventure Works sales analysis - featurin
 - **Geographic Mapping** - Country-wise profit distribution
 
 ## Dashboard Interaction here
-- <a href="https://github.com/KrrishKoulia/Adventure-Works-Excel-Dashboards/blob/main/Book1%20(Adventure%20Work%20Sales%20Analysis).xlsm">AdventureWorksDasboard</a>
+- <a href="https://github.com/KrrishKoulia/Adventure-Works-Excel-Dashboards/blob/main/Adventure%20Work%20Sales%20Analysis.xlsm">AdventureWorksDasboard</a>
 
   ## Key Insights
 - **50+ age group** contributes 41.3% of total profit
